@@ -1,0 +1,6 @@
+{
+  "name": "Football Analysis & Betting Agent",
+  "description": "AI-powered companion that performs pre-match analysis, simulates live watch-alongs, generates post-match reviews, and prepares customized betting slips for major Tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
